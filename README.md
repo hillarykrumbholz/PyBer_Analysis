@@ -13,7 +13,7 @@ To create visualizations of rideshare data for PyBer to help improve access to r
 
 ### Summary of Data Explained in DataFrame
 
-![Summary_DataFrame] (
+![Summary_DataFrame] (https://github.com/hillarykrumbholz/PyBer_Analysis/blob/master/analysis/PyBer_Summary_DataFrame.png)
 
 This table shows the key metrics of the ride-sharing company PyBer, and is categorized by city type. The table displays the Total Rides, Total Drivers, Total Fares, Average Fare per Ride and Average Fare per Driver for 3 city types – Rural, Suburban, and Urban. You can see that the number of rides and drivers are low in rural areas, but increase as you move into suburban areas, and are at the highest in urban areas. The number of total rides is 13 times greater in urban areas compared to rural; and the total number of drivers is nearly 31 times greater in urban areas compared to rural city types. The total amount of fares is also much greater in urban areas compared to suburban and rural areas, with bringing in 2 times and 9 times as much, respectively. When looking at the average fare per ride, you can see that rides cost about $10 less on average in urban areas compared to rural areas; and the average fare per driver is much greater in rural areas, with there being nearly a $39 difference when compared to urban areas. 
 
