@@ -19,7 +19,7 @@ This table shows the key metrics of the ride-sharing company PyBer, and is categ
 
 ### Summary of Data Displayed in the Multiple-line Chart 
 
-![Total_Fare_by_City_type](https://github.com/hillarykrumbholz/PyBer_Analysis/blob/master/analysis/Fig8.png)
+![Total_Fare_by_City_type]
 
 This line chart illustrates the average fares for each week between the months of January and April 2019, for each city type – Rural (blue), Suburban (red), and Urban (mustard). All city types display a similar trend that stays generally consistent through the months. All city types started on the lower end in January and saw a spike in average fares the end of February to mid-March. Rural areas consistently have the lowest fare total compared to suburban and urban types, with urban areas consistently having the greatest total fare. The weekly average fare for rural areas ranges from $0-500; suburban areas range from approximately $700-1500 per week; urban areas have a range from $1600-2500 per week. Urban areas bring in majority of revenue for PyBer with generating about twice as much revenue than suburban areas and nearly 5 times as much revenue than rural areas. 
 
